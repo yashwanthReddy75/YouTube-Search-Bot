@@ -14,9 +14,9 @@ from pyrogram.types import *
 
 Bot = Client(
     "YouTube-Search-Bot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    bot_token = os.environ["1956918277:AAEUiibPuPqXwhdhkAl7IrxwrUpmXjbofrs"],
+    api_id = int(os.environ["4325415"]),
+    api_hash = os.environ["1fffc4c99912059b78ae45c7034a3a44  "]
 )
 
 
